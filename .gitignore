@@ -1,0 +1,4 @@
+# game_genre_prediction/raw_data
+game_genre_prediction/resources/dataset
+# server
+server/node_modules
